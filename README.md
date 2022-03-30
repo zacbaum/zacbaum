@@ -23,6 +23,3 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/zacharybaum/), see my 
 ![aws](https://img.shields.io/static/v1?logo=amazonaws&label=&message=aws&color=111&logoColor=AAA&style=flat-square)
 ![lambda](https://img.shields.io/static/v1?logo=awslambda&label=&message=aws-lambda&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
-
-
-**Note:** *Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
