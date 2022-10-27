@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm [Zac](https://zacbaum.github.io/).
 
-**I am a Medical Imaging Ph.D. candidate in the [Department of Medical Physics and Biomedical Engineering](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) at [University College London](https://www.ucl.ac.uk/).**
+**I am a Medical Imaging Ph.D. candidate in the [Department of Medical Physics and Biomedical Engineering](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) at [University College London](https://www.ucl.ac.uk/).** I also work at [Verdure Imaging](https://verdureimaging.com/), where I create solutions for ultrasound-aided monitoring and diagnosis of scoliosis. 
 
 I'm currently researching artificial intelligence, modelling and software engineering methods for surgical guidance.
-
-I work part-time at [Verdure Imaging](https://verdureimaging.com/), where I create solutions for ultrasound-aided monitoring and diagnosis of scoliosis. I also work part-time at [Atheneum](https://www.atheneum.ai/), where I lead the development of ML techniques to optimize internal operations.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/zacharybaum/), see my Academic CV [here](https://zacbaum.github.io/markdown-cv/), or my professional CV [here](https://www.dropbox.com/s/4wdwlgw7v8l8sfj/ZacBaum-CV-1Page.pdf?dl=0).
 
