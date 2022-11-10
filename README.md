@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Zac](https://zacbaum.github.io/).
+### Hey, I'm [Zac](https://zacbaum.github.io/). 👋
 
 **I am a Medical Imaging Ph.D. candidate in the [Department of Medical Physics and Biomedical Engineering](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) at [University College London](https://www.ucl.ac.uk/).** I also work at [Verdure Imaging](https://verdureimaging.com/), where I create solutions for ultrasound-aided monitoring and diagnosis of scoliosis. 
 
