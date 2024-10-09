@@ -1,6 +1,6 @@
 ### Hey, I'm [Zac](https://zacbaum.github.io/). 👋
 
-**I am a Senior Research Scientist at [Odin Vision](https://odin-vision.com/), where I am helping to create the next generation of AI-enabled applications for endoscopy by delivering state-of-the-art AI software and applications to aid clinicians in the detection and diagnosis of disease.** 
+**I am a Research Team Lead at [Odin Vision](https://odin-vision.com/), where I am helping to create the next generation of AI-enabled applications for endoscopy by delivering state-of-the-art AI software and applications to aid clinicians in the detection and diagnosis of disease.** 
 
 I also work at [Verdure Imaging](https://verdureimaging.com/), where I create solutions for ultrasound-aided monitoring and diagnosis of scoliosis. 
 
